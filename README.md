@@ -6,4 +6,4 @@
 
 
 <h3>Show records view</h3>
-![Screenshot](/Sample_Outputs/viewdata.jpg)
+![image](/Sample_Outputs/viewdata.jpg)
