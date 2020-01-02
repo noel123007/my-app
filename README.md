@@ -1,4 +1,4 @@
-<h2>React Sample outputs</h2>
+<h2>React Sample Task</h2>
 
 <h3>Home page view</h3>
 
