@@ -1,8 +1,9 @@
-React Sample outputs
+<h2>React Sample outputs</h2>
 
 <h3>Home page view</h3>
-![Screenshot1](/Sample_Outputs/home.jpg)
+
+![Screenshot](/Sample_Outputs/home.jpg)
 
 
-Show records view
-![Screenshot2](/Sample_Outputs/viewdata.jpg)
+<h3>Show records view</h3>
+![Screenshot](/Sample_Outputs/viewdata.jpg)
