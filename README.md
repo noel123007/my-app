@@ -1,3 +1,3 @@
 React Sample outputs
 
-![Screenshot](/Sample_Outputs/home.png)
+![Screenshot](/Sample_Outputs/home.jpg)
