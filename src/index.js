@@ -5,8 +5,16 @@ import App from './App';
 import Getdata from './Getdata';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
-ReactDOM.render(<Getdata />, document.getElementById('test'));
+
+const body = (
+    <React.Fragment>
+        <App />
+        <Getdata />
+    </React.Fragment>
+)
+
+ReactDOM.render(body, document.getElementById('root'));
+//ReactDOM.render(<Getdata />, document.getElementById('test'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
